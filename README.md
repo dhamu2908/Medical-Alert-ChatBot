@@ -1,0 +1,1 @@
+chatbot capable of diagnosing common medical conditions based on user symptoms input. Utilized pre-trained machine learning models Huggingface and Spacy, trained on medical data to provide accurate suggestions and recommendations for further action.
